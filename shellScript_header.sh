@@ -57,7 +57,7 @@ do
      case "$1" in
           -h)  echo "$USE_MASSAGE" && exit 0 ;;
           -v)  echo "$VERSION" && exit 0 ;;
-           *)  echo "This is not valid option."
+           *)  echo "This is not a valid option."
      esac
      shift
 done
