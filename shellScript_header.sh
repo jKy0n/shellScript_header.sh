@@ -11,18 +11,18 @@
 #
 #    Examples:
 #         $ ./shellScript.sh -d 1
-#         In this example the script will execute debug level 1.
+#         In this example scripts will execute debug in mode 1.
 # ------------------------------------------------------------------------ #
 #    History:
 #         v1.0 03/10/2022, jKyon:
-#              - Created script
-#              - Had THIS function
+#              - Script created
+#              - Made a stuff
 #         v1.1 10/10/2022, jKyon:
 #              - Change any parameter
 # ------------------------------------------------------------------------ #
 #    Tested on:
-#         bash 5.1.16
-#          zsh 5.9
+#         bash 5.1.4
+#          zsh 5.8
 # ------------------------------------------------------------------------ #
 #    Thanks and credits:
 #
